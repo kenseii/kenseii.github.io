@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: The beginning
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+YO!!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Once in a while i will be publishing posts here related to Cloud, Odoo, GIS, IoT, Travel or other topics that i feel like writting about.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I will mainly be mainly writting in english however i might write in japanese or other languages depending on the mood or the topic.
+
+
+Untill next time, wear a mask.
+
+
