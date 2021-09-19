@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-YO!!
+YO :-)
 I currently work on location/mapping related solutions combining open source GIS, Cloud(GCP/AWS) and software development.
 
 Before that I worked on open source ERP(Odoo, ERPnext) implementation projects for African and European institutions.
