@@ -91,8 +91,8 @@ For the sales order to use the custom sequence, i had to inherit the original mo
 
 ## Environment:
 
-Odoo 15.0 CE
-Docker-compose
+- Odoo 15.0 CE
+- Docker-compose
 
 
 If you have a better/cleaner approach feel free to send me a message on twitter.
