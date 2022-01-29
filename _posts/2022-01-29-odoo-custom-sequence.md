@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Generating custom dynamic sequence based on relational field in odoo
 
@@ -100,4 +100,3 @@ Docker-compose
 
 If you have a better/cleaner approach feel free to send me a message on twitter.
 Untill next time, wear a mask.
-
