@@ -60,7 +60,7 @@ I started by inheriting the existing partner model, added the new field and made
 
 Note that the compute depends on `create_date` the reason is to avoid the partner code being recomputed on name change which might lead to inconsistent partner code on orders created after the name is changed.
  
-### Making the sales.order model use the new sequence
+### Making the sale.order model use the new sequence
  
      import re
      
