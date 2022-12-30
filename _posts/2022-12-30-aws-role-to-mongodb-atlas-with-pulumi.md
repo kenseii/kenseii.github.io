@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Allowing a connection to MongoDB atlas from an IaM role via pulumi
-
 The other day i was working on a project that required using a NoSQL database; after a few weeks trying out AWS's documentDB and realizing that it requires more maintenance than expected(especially if you dont want to deal with VPC settings and service idle time) we ended up trying out MongoDB atlas.
 
 As it was not straightforward to know how to do it by consulting the pulumi documentation, i decided to writedown this blog and a gist just in a case i need to do the same thing in the future.
