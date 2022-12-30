@@ -11,6 +11,6 @@ These 2 segments of the MongoDB atlas documentation explains the steps quite cle
 - Passwordless authentication [link](https://www.mongodb.com/docs/atlas/security/passwordless-authentication/#set-up-passwordless-authentication-with-aws-iam-roles "Passwordless auth to mongoDB atlas with IAM role")
 
 The gist with the whole automation code can be found [here](https://gist.github.com/kenseii/37f19a22af2ab084e89ab9d6817734a1 "iam role to atlas pulumi")
-"iam role to mongodb-db-atlas using pulumi")
+
 
 In case you are not using pulumi you can also get the same automation result using atlas's api however that would require some more work setting up the role in AWS with another tool.
