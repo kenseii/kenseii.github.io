@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Allowing a connection to MongoDB atlas from an IaM role via pulumi
 
@@ -16,5 +16,3 @@ The gist with the whole automation code can be found [here](https://gist.github.
 "iam role to mongodb-db-atlas using pulumi")
 
 In case you are not using pulumi you can also get the same automation result using atlas's api however that would require some more work setting up the role in AWS with another tool.
-
-
