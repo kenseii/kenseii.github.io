@@ -9,7 +9,7 @@ YO :-)
 
 I currently work on backend and cloud (mainly AWS) services used to process and store various data coming from computer vision models running on edge devices.
 
-2019, 2020 and 2021 i was working on location/mapping related solutions combining open source GIS, Cloud(GCP/AWS) and software development.
+2019, 2020 and 2021 i was working on location/mapping related software solutions combining open source GIS tools and Cloud(GCP/AWS)
 
 Before that I worked on open source ERP(Odoo, ERPnext) implementation projects for African and European institutions.
 
@@ -20,7 +20,7 @@ GMT+9 or GMT+2
 ### Current Stack / 最近使ってるスタック
 
 - Cloud: GCP, AWS (SNS, SQS, IoT core, Appsync, IAM, Lambda), Serverless framework and Pulumi
-- Dev: Rust(recently), Python, Elixir, C, Django, JS, Docker
+- Dev: Rust(currently), Python, Elixir, C, Django, JS, Docker
 - GIS: QGIS, GDAL, OGR, Postgis, Mapbox, OSM, Lizmap
 - ML: Tensorflow, Scikit-learn, Mask-RCNN, Raster-vision
 - ERP: Odoo (~ 5 implementations), ERPnext (~ 3 implementations)
