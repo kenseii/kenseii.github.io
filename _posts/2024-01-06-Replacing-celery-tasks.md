@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-# Why and how to replace running tasks in your application
+# Why and how to replace running celery tasks in your application
 
 ## Background
 
