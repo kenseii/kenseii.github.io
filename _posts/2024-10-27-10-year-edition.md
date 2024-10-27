@@ -1,4 +1,3 @@
-# 10 Year edition
 
 2 weeks ago i crossed 10 years getting paid to break things on the internet. Quite a journey it was. I still remember the beginnings, countless days spent in kLab and Impact hub Kigali fighting with php in a corner that had a mixed smell of coffee and dirty dishes.
 
