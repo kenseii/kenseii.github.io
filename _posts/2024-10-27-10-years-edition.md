@@ -6,9 +6,9 @@ Back then i had no idea what a crazy journey it was going to be or even how many
 If i had a message to give to myself ten years back (or even today), it would be this:
 
 
-_Be patient with yourself young padawan. However don't underestimate your potential, you are the closest living thing to John Rambo... You just don't know it yet_
+_Be patient with yourself young padawan. However don't underestimate your potential, you are the closest living thing to John Rambo... You just don't know it yet._
 
-Normally i would do some shoutouts to people who helped me in the journey but... privacy.
+Normally i would do some shoutouts to people who helped me on the journey but... privacy.
 
 
 
